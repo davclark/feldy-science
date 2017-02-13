@@ -1,18 +1,21 @@
 Only one definition of memory
 -----------------------------
 
-Roughly, the reinstantiation of some pattern of neural activity that was also
-present at some previous point. This is often accompanied by recognition that
-this is a reinstantiation, though recognition appears to be a graded signal
-(cf. Signal Detection Theory, Hypnosis via Erdyeli).
+At least, Mick Rugg says this in his talks (Mick is one of the giants of
+learning and memory neuroscience). Roughly, memory is the reinstantiation of
+some pattern of neural activity that was also present at some previous point.
+This is often accompanied by recognition that this is a reinstantiation, though
+recognition appears to be a graded signal (cf. Signal Detection Theory,
+Hypnosis via Erdyeli).
 
 We only really have one definition of leaning
 ---------------------------------------------
 
-I haven't heard this outside of the machine learning community. But we need the
-following for meaningful or effective learning:
+I haven't heard this outside of the machine learning community, but at least in
+that community we've so far needed the following for meaningful or effective
+learning:
 
-- A value metric - 
+- A value metric
 - Some way of changing our "rules" (aka. wiring, parameters, policy) for
   our behavior
 
@@ -20,8 +23,8 @@ We can easily provide concrete examples of this and do so in the *Feldenkrais
 Method*®. We start with examples that are directly tied to sensation.
 Feldenkrais' use of the word optimal speaks directly to the maximum value
 within a metric -- and interestingly, the metric is left somehow unspecified
-(and thus, at least partly subjective).  And we also see this occurring in the
-*Sounder Sleep Method®*.
+(and thus, at least partly subjective). We can also witness these principles in
+the gestural practices in the *Sounder Sleep Method®*.
 
 Note that evolution can also be described in exactly the same way!
 
@@ -36,12 +39,12 @@ But learning can be *greatly* accelerated by adding predictions or *models* to
 the learning process.
 
 We can easily provide concrete examples of this and do so in the Feldenkrais
-Method®. For this, we engage our imagination or expectations prior to making a
+Method. For this, we engage our imagination or expectations prior to making a
 movement. Or alternatively, focus on the beginning of a movement and
 extrapolate to the imagined continuation, or perhaps even deploy our attention
-and introduce a pause before initiation (cf. Kahneman's systems I and II).
-Interestingly, this is *not* a particularly central part of *Sounder Sleep*
-practice.
+and introduce a pause before initiation (cf. Kahneman's systems I and II, also
+Clark and Ivry).  Interestingly, models and predictions are *not* a
+particularly central part of *Sounder Sleep* practice.
 
 This brings us to a critical aspect of sleep. One of the hallmarks of sleep is
 that we are *not conscious*. And while scholars go round and round about the
@@ -59,9 +62,9 @@ do to *efficiently* learn more optimal movement.
 
 Let's explore this together.
 
-Minor Corollaries
------------------
+Minor Corollary
+---------------
 
 The orthodoxy of individuals learning in their sleep during ATM or even FI may
-be somewhat dependent on whether sleep comes from exhaustion, or alternatively
-due to the need to "go offline" to consolidate learning.
+be dependent on whether sleep comes from exhaustion, or alternatively due to
+the need to "go offline" to consolidate learning.
