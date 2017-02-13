@@ -58,7 +58,12 @@ sleep).
 
 Thus, it follows that *efficiently* learning to fall asleep will entail a
 somewhat different attitude (wiring, parameters, policy) from much of what we
-do to *efficiently* learn more optimal movement.
+do to *efficiently* learn more optimal movement. Similarly, Michael repeatedly
+insisted that the gestural practices in *Sounder Sleep* were quite distinct
+from meditation, and indeed that skillful meditation is arousing and will
+*prevent* sleep. Understanding the differences between "waking up" in
+meditation vs.  "drifting off" using a hypnogenic gesture may be critically
+related to this consideration.
 
 Let's explore this together.
 
