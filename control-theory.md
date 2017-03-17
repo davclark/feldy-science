@@ -17,6 +17,12 @@ myutu:
     reliability, precision, etc. (cf. [Fitts' law] and sequelae)
   - Motor practice operates within a heterarchy of control
     - Basic notion of force vs. work (consider pulleys and weights)
+        - But oppositional (cross-motivated) forces cancel and do not produce
+          work
+        - Organisms must stay within the metabolic budget afforded by food
+          sources, etc.
+        - All organisms will naturally seek to minimize force / work ratio at
+          the lowest (~most evolutionarily established / fast / cheap) levels
     - Extend to servo control, in which force / time may not be specified
       (often "as fast as possible")
       - Experiential example of servo control is saccades_
